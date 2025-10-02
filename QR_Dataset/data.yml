@@ -1,0 +1,5 @@
+train: split2/images/train
+val: split2/images/val
+
+nc: 1
+names: ['qr']
