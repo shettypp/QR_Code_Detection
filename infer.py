@@ -6,17 +6,17 @@ import cv2
 
 MODEL_PATH = "src/models/qr_yolo_model/weights/best.pt"
 
-# Folder containing images to run inference on
+# pointing to the folder that contains images to test
 IMAGES_FOLDER = "QR_Dataset/test_images"  # or any folder with images
 
-# Output folder for images with annotations
+# folder output for annotated image
 OUTPUT_IMAGE_FOLDER = "outputs/annotated_image"
 Path(OUTPUT_IMAGE_FOLDER).mkdir(parents=True, exist_ok=True)
 
-# Output JSON file
+# Output of the JSON file
 OUTPUT_JSON = "outputs/submission_detection_1.json"
 
-# Load trained model
+# loading the pretrained model from the specified folder path of model
 model = YOLO(MODEL_PATH)
 
 
