@@ -6,6 +6,43 @@ The workflow covers dataset preparation and splitting, model training, and infer
 
 ---
 
+## ⚙️ Setting Up the project with necessary installation
+
+### 1️⃣ Install requirements.txt  
+```bash
+pip install -r requirements.txt
+```
+
+### 2️⃣ Install dependencies  
+```bash
+pip install ultralytics
+```
+## Annotation of training images using CVAT(online annotation)
+
+### 1. Open CVAT
+Open a terminal and run:
+- Go to https://www.cvat.ai/ and create a free account.
+  
+### 2. Create a Task
+- Navigate to the Tasks section.
+- Upload all your dataset images.
+- Add a new label (e.g., QR Code).
+- Create the task.
+
+### 3. Annotate Images
+- Go to the Jobs section and open the created task.
+- Use the Rectangle Tool and select the QR Code label.
+- Draw bounding boxes around all QR codes in each image.
+
+### 4. Export Annotations in YOLO Format
+- Once all images are annotated, return to the Jobs section.
+- Click the three dots (⋮) menu for your task.
+- Choose Export Annotations → YOLO TXT format.
+
+
+> [!NOTE]  
+> Only a few images are included in labels and QR_Dataset folder to show the folder structure. During the execution of ``splitting.py`` on Original QR_Dataset you will get the folder structure specified earlier
+
 ## 📂 Project Structure  
 
 ```
@@ -43,42 +80,7 @@ The workflow covers dataset preparation and splitting, model training, and infer
 ```
 ---
 
-## ⚙️ Environment Setup 
 
-### 1️⃣ Install requirements.txt  
-```bash
-pip install -r requirements.txt
-```
-
-### 2️⃣ Install dependencies  
-```bash
-pip install ultralytics
-```
-## Annotation of training images using CVAT(online annotation)
-
-### 1. Open CVAT
-Open a terminal and run:
-- Go to https://www.cvat.ai/ and create a free account.
-  
-### 2. Create a Task
-- Navigate to the Tasks section.
-- Upload all your dataset images.
-- Add a new label (e.g., QR Code).
-- Create the task.
-
-### 3. Annotate Images
-- Go to the Jobs section and open the created task.
-- Use the Rectangle Tool and select the QR Code label.
-- Draw bounding boxes around all QR codes in each image.
-
-### 4. Export Annotations in YOLO Format
-- Once all images are annotated, return to the Jobs section.
-- Click the three dots (⋮) menu for your task.
-- Choose Export Annotations → YOLO TXT format.
-
-
-> [!NOTE]  
-> Only a few images are included in labels and QR_Dataset folder to show the folder structure. During the execution of ``splitting.py`` on Original QR_Dataset you will get the folder structure specified earlier
 
 
 ## 📂 Dataset Splitter (first run ```splitting.py``` before ```train.py```)
