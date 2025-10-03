@@ -1,0 +1,2242 @@
+[
+  {
+    "image_id": "img247",
+    "qrs": [
+      {
+        "bbox": [
+          1144,
+          2459,
+          1312,
+          2621
+        ],
+        "value": "5a0SBZ0D",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1861,
+          1972,
+          2019,
+          2130
+        ],
+        "value": "5a0RSF07",
+        "type": "price"
+      },
+      {
+        "bbox": [
+          2916,
+          1755,
+          3073,
+          1911
+        ],
+        "value": "",
+        "type": "undecoded"
+      },
+      {
+        "bbox": [
+          870,
+          617,
+          993,
+          728
+        ],
+        "value": "",
+        "type": "undecoded"
+      }
+    ]
+  },
+  {
+    "image_id": "img246",
+    "qrs": [
+      {
+        "bbox": [
+          1735,
+          1692,
+          1861,
+          1809
+        ],
+        "value": "",
+        "type": "undecoded"
+      },
+      {
+        "bbox": [
+          739,
+          2254,
+          866,
+          2380
+        ],
+        "value": "5a0RrK0E",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1026,
+          1171,
+          1146,
+          1286
+        ],
+        "value": "",
+        "type": "undecoded"
+      },
+      {
+        "bbox": [
+          1074,
+          2543,
+          1137,
+          2605
+        ],
+        "value": "",
+        "type": "undecoded"
+      }
+    ]
+  },
+  {
+    "image_id": "img250",
+    "qrs": [
+      {
+        "bbox": [
+          1871,
+          1053,
+          2017,
+          1200
+        ],
+        "value": "5a0Rqf02",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1356,
+          1074,
+          1489,
+          1217
+        ],
+        "value": "",
+        "type": "undecoded"
+      },
+      {
+        "bbox": [
+          2603,
+          936,
+          2771,
+          1101
+        ],
+        "value": "5a0SJB02",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1685,
+          1608,
+          1840,
+          1760
+        ],
+        "value": "5a0SHG01",
+        "type": "serial"
+      }
+    ]
+  },
+  {
+    "image_id": "img244",
+    "qrs": [
+      {
+        "bbox": [
+          1890,
+          1348,
+          2038,
+          1492
+        ],
+        "value": "5a0SG607",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          891,
+          1766,
+          1027,
+          1904
+        ],
+        "value": "5a0RrO09",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          2216,
+          434,
+          2364,
+          579
+        ],
+        "value": "5a0RrU0A",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1459,
+          603,
+          1545,
+          689
+        ],
+        "value": "",
+        "type": "undecoded"
+      }
+    ]
+  },
+  {
+    "image_id": "img245",
+    "qrs": [
+      {
+        "bbox": [
+          1437,
+          656,
+          1574,
+          795
+        ],
+        "value": "5a0Rqf02",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          2366,
+          623,
+          2511,
+          777
+        ],
+        "value": "5a0SG607",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1021,
+          842,
+          1146,
+          972
+        ],
+        "value": "5a0RrO09",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          2736,
+          1352,
+          2847,
+          1467
+        ],
+        "value": "",
+        "type": "undecoded"
+      },
+      {
+        "bbox": [
+          2462,
+          1512,
+          2606,
+          1658
+        ],
+        "value": "5a0RrV0C",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1854,
+          1385,
+          1950,
+          1486
+        ],
+        "value": "",
+        "type": "undecoded"
+      }
+    ]
+  },
+  {
+    "image_id": "img241",
+    "qrs": [
+      {
+        "bbox": [
+          1047,
+          2177,
+          1202,
+          2338
+        ],
+        "value": "5a0S2r0I",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          2218,
+          1212,
+          2359,
+          1349
+        ],
+        "value": "5a0S2y05",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1522,
+          515,
+          1658,
+          647
+        ],
+        "value": "5a0S2s0B",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          3537,
+          1422,
+          3711,
+          1598
+        ],
+        "value": "5a0Pp30B",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          2566,
+          2175,
+          2713,
+          2325
+        ],
+        "value": "5a0Rns0X",
+        "type": "serial"
+      }
+    ]
+  },
+  {
+    "image_id": "img240",
+    "qrs": [
+      {
+        "bbox": [
+          715,
+          1427,
+          856,
+          1568
+        ],
+        "value": "5a0Rqf02",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1460,
+          1623,
+          1603,
+          1765
+        ],
+        "value": "5a0Rqm02",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1732,
+          2244,
+          1889,
+          2398
+        ],
+        "value": "5a0RrO09",
+        "type": "serial"
+      }
+    ]
+  },
+  {
+    "image_id": "img242",
+    "qrs": [
+      {
+        "bbox": [
+          654,
+          2080,
+          813,
+          2236
+        ],
+        "value": "5a0Rqf02",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          656,
+          1628,
+          799,
+          1767
+        ],
+        "value": "5a0RrO09",
+        "type": "serial"
+      }
+    ]
+  },
+  {
+    "image_id": "img243",
+    "qrs": [
+      {
+        "bbox": [
+          2994,
+          1258,
+          3353,
+          1643
+        ],
+        "value": "",
+        "type": "undecoded"
+      },
+      {
+        "bbox": [
+          833,
+          957,
+          1159,
+          1259
+        ],
+        "value": "",
+        "type": "undecoded"
+      }
+    ]
+  },
+  {
+    "image_id": "img218",
+    "qrs": [
+      {
+        "bbox": [
+          315,
+          1838,
+          438,
+          1959
+        ],
+        "value": "5a0S4B03",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1710,
+          1257,
+          1830,
+          1374
+        ],
+        "value": "5a0S5e04",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1342,
+          2449,
+          1475,
+          2582
+        ],
+        "value": "5a0RnG0E",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          748,
+          1367,
+          857,
+          1471
+        ],
+        "value": "",
+        "type": "undecoded"
+      },
+      {
+        "bbox": [
+          509,
+          2515,
+          637,
+          2637
+        ],
+        "value": "",
+        "type": "undecoded"
+      },
+      {
+        "bbox": [
+          1193,
+          1762,
+          1315,
+          1883
+        ],
+        "value": "",
+        "type": "undecoded"
+      },
+      {
+        "bbox": [
+          497,
+          1413,
+          593,
+          1501
+        ],
+        "value": "",
+        "type": "undecoded"
+      }
+    ]
+  },
+  {
+    "image_id": "img224",
+    "qrs": [
+      {
+        "bbox": [
+          996,
+          1865,
+          1121,
+          1985
+        ],
+        "value": "5a0QZf0S",
+        "type": "serial"
+      }
+    ]
+  },
+  {
+    "image_id": "img230",
+    "qrs": [
+      {
+        "bbox": [
+          1209,
+          1815,
+          1380,
+          1997
+        ],
+        "value": "",
+        "type": "undecoded"
+      },
+      {
+        "bbox": [
+          1476,
+          1573,
+          1645,
+          1748
+        ],
+        "value": "",
+        "type": "undecoded"
+      },
+      {
+        "bbox": [
+          1050,
+          3380,
+          1207,
+          3552
+        ],
+        "value": "",
+        "type": "undecoded"
+      },
+      {
+        "bbox": [
+          1433,
+          696,
+          1591,
+          847
+        ],
+        "value": "5a0RYU0O",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          2268,
+          3242,
+          2419,
+          3396
+        ],
+        "value": "",
+        "type": "undecoded"
+      },
+      {
+        "bbox": [
+          2334,
+          1927,
+          2473,
+          2073
+        ],
+        "value": "",
+        "type": "undecoded"
+      }
+    ]
+  },
+  {
+    "image_id": "img231",
+    "qrs": [
+      {
+        "bbox": [
+          1735,
+          1676,
+          1854,
+          1797
+        ],
+        "value": "5a0SEp01",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          733,
+          1554,
+          858,
+          1670
+        ],
+        "value": "5a0S2l07",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          734,
+          2200,
+          867,
+          2335
+        ],
+        "value": "5a0SIk02",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          450,
+          1345,
+          573,
+          1460
+        ],
+        "value": "5a0SEs01",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1325,
+          1036,
+          1440,
+          1149
+        ],
+        "value": "5a0S2u0B",
+        "type": "serial"
+      }
+    ]
+  },
+  {
+    "image_id": "img225",
+    "qrs": [
+      {
+        "bbox": [
+          2463,
+          1979,
+          2653,
+          2175
+        ],
+        "value": "5a0Rq507",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1536,
+          1862,
+          1712,
+          2044
+        ],
+        "value": "5a0Rrt0H",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1257,
+          951,
+          1419,
+          1108
+        ],
+        "value": "5a0RHc0F",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          2455,
+          747,
+          2592,
+          880
+        ],
+        "value": "",
+        "type": "undecoded"
+      }
+    ]
+  },
+  {
+    "image_id": "img219",
+    "qrs": [
+      {
+        "bbox": [
+          2058,
+          934,
+          2166,
+          1049
+        ],
+        "value": "",
+        "type": "undecoded"
+      },
+      {
+        "bbox": [
+          1264,
+          775,
+          1375,
+          892
+        ],
+        "value": "",
+        "type": "undecoded"
+      },
+      {
+        "bbox": [
+          1832,
+          288,
+          1948,
+          402
+        ],
+        "value": "5a0Pwr11",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          2437,
+          1382,
+          2553,
+          1495
+        ],
+        "value": "",
+        "type": "undecoded"
+      },
+      {
+        "bbox": [
+          1227,
+          1762,
+          1336,
+          1868
+        ],
+        "value": "",
+        "type": "undecoded"
+      }
+    ]
+  },
+  {
+    "image_id": "img233",
+    "qrs": [
+      {
+        "bbox": [
+          1086,
+          404,
+          1219,
+          537
+        ],
+        "value": "5a0SEq01",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1522,
+          1726,
+          1658,
+          1872
+        ],
+        "value": "5a0SEn01",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1936,
+          866,
+          2087,
+          1018
+        ],
+        "value": "5a0RTm08",
+        "type": "serial"
+      }
+    ]
+  },
+  {
+    "image_id": "img227",
+    "qrs": [
+      {
+        "bbox": [
+          2761,
+          1619,
+          2928,
+          1785
+        ],
+        "value": "5a0SFK02",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1194,
+          898,
+          1350,
+          1045
+        ],
+        "value": "",
+        "type": "undecoded"
+      },
+      {
+        "bbox": [
+          1527,
+          1849,
+          1676,
+          2015
+        ],
+        "value": "",
+        "type": "undecoded"
+      },
+      {
+        "bbox": [
+          2516,
+          414,
+          2637,
+          540
+        ],
+        "value": "",
+        "type": "undecoded"
+      }
+    ]
+  },
+  {
+    "image_id": "img226",
+    "qrs": [
+      {
+        "bbox": [
+          1232,
+          937,
+          1396,
+          1099
+        ],
+        "value": "5a0RHc0F",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          2450,
+          1974,
+          2646,
+          2180
+        ],
+        "value": "5a0Rq507",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1516,
+          1870,
+          1691,
+          2045
+        ],
+        "value": "5a0Rrt0H",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          2444,
+          724,
+          2587,
+          862
+        ],
+        "value": "",
+        "type": "undecoded"
+      }
+    ]
+  },
+  {
+    "image_id": "img232",
+    "qrs": [
+      {
+        "bbox": [
+          1694,
+          2214,
+          1838,
+          2357
+        ],
+        "value": "5a0SIk02",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          640,
+          1423,
+          765,
+          1544
+        ],
+        "value": "5a0SEs01",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          473,
+          2442,
+          616,
+          2587
+        ],
+        "value": "5a0PtX0M",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          96,
+          236,
+          188,
+          324
+        ],
+        "value": "",
+        "type": "undecoded"
+      },
+      {
+        "bbox": [
+          111,
+          239,
+          198,
+          329
+        ],
+        "value": "",
+        "type": "undecoded"
+      }
+    ]
+  },
+  {
+    "image_id": "img236",
+    "qrs": [
+      {
+        "bbox": [
+          1555,
+          513,
+          1686,
+          646
+        ],
+        "value": "5a0SJX01",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          870,
+          2334,
+          1020,
+          2486
+        ],
+        "value": "5a0N0R0l",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          2079,
+          1019,
+          2217,
+          1156
+        ],
+        "value": "5a0S2q0D",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1634,
+          2015,
+          1785,
+          2158
+        ],
+        "value": "5a0S2p04",
+        "type": "serial"
+      }
+    ]
+  },
+  {
+    "image_id": "img222",
+    "qrs": [
+      {
+        "bbox": [
+          1038,
+          481,
+          1141,
+          583
+        ],
+        "value": "",
+        "type": "undecoded"
+      },
+      {
+        "bbox": [
+          1275,
+          1815,
+          1372,
+          1913
+        ],
+        "value": "5a0Pet0G",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1174,
+          990,
+          1266,
+          1083
+        ],
+        "value": "4j1V3A03",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1895,
+          987,
+          1970,
+          1066
+        ],
+        "value": "",
+        "type": "undecoded"
+      }
+    ]
+  },
+  {
+    "image_id": "img223",
+    "qrs": [
+      {
+        "bbox": [
+          1509,
+          1163,
+          1607,
+          1260
+        ],
+        "value": "",
+        "type": "undecoded"
+      },
+      {
+        "bbox": [
+          1916,
+          2003,
+          2029,
+          2114
+        ],
+        "value": "5a0Pwr11",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          724,
+          2101,
+          849,
+          2217
+        ],
+        "value": "5a0QZf0S",
+        "type": "serial"
+      }
+    ]
+  },
+  {
+    "image_id": "img237",
+    "qrs": [
+      {
+        "bbox": [
+          1864,
+          811,
+          2004,
+          951
+        ],
+        "value": "5a0SJX01",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          2344,
+          1379,
+          2492,
+          1525
+        ],
+        "value": "5a0S2q0D",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          935,
+          2604,
+          1095,
+          2768
+        ],
+        "value": "5a0N0R0l",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          2881,
+          2596,
+          3064,
+          2787
+        ],
+        "value": "5a0RdA0A",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1757,
+          2377,
+          1913,
+          2532
+        ],
+        "value": "5a0S2p04",
+        "type": "serial"
+      }
+    ]
+  },
+  {
+    "image_id": "img221",
+    "qrs": [
+      {
+        "bbox": [
+          684,
+          474,
+          820,
+          605
+        ],
+        "value": "5a0S220A",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          843,
+          1112,
+          951,
+          1221
+        ],
+        "value": "4j1V3A03",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1177,
+          2153,
+          1298,
+          2275
+        ],
+        "value": "5a0Pet0G",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1672,
+          846,
+          1758,
+          939
+        ],
+        "value": "",
+        "type": "undecoded"
+      }
+    ]
+  },
+  {
+    "image_id": "img235",
+    "qrs": [
+      {
+        "bbox": [
+          339,
+          2408,
+          489,
+          2551
+        ],
+        "value": "5a0S2f0C",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1145,
+          1305,
+          1261,
+          1421
+        ],
+        "value": "5a0PlH19",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1111,
+          1802,
+          1244,
+          1928
+        ],
+        "value": "5a0S2n04",
+        "type": "serial"
+      }
+    ]
+  },
+  {
+    "image_id": "img209",
+    "qrs": [
+      {
+        "bbox": [
+          901,
+          1174,
+          1022,
+          1293
+        ],
+        "value": "",
+        "type": "undecoded"
+      },
+      {
+        "bbox": [
+          754,
+          1800,
+          899,
+          1949
+        ],
+        "value": "5a0QP30V",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          617,
+          2635,
+          768,
+          2787
+        ],
+        "value": "5a0Qnu0E",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1856,
+          2628,
+          1994,
+          2774
+        ],
+        "value": "5a0Rq405",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1812,
+          1283,
+          1946,
+          1410
+        ],
+        "value": "5a0QRb0M",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1907,
+          1909,
+          1995,
+          1982
+        ],
+        "value": "",
+        "type": "undecoded"
+      }
+    ]
+  },
+  {
+    "image_id": "img208",
+    "qrs": [
+      {
+        "bbox": [
+          362,
+          2127,
+          519,
+          2283
+        ],
+        "value": "5a0RCY0A",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1783,
+          2082,
+          1952,
+          2253
+        ],
+        "value": "5a0QRb0M",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          758,
+          2596,
+          919,
+          2761
+        ],
+        "value": "5a0NAI0O",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          811,
+          1356,
+          964,
+          1516
+        ],
+        "value": "",
+        "type": "undecoded"
+      },
+      {
+        "bbox": [
+          411,
+          3171,
+          482,
+          3244
+        ],
+        "value": "",
+        "type": "undecoded"
+      },
+      {
+        "bbox": [
+          1553,
+          2856,
+          1662,
+          2954
+        ],
+        "value": "",
+        "type": "undecoded"
+      }
+    ]
+  },
+  {
+    "image_id": "img234",
+    "qrs": [
+      {
+        "bbox": [
+          1828,
+          849,
+          1955,
+          976
+        ],
+        "value": "",
+        "type": "undecoded"
+      },
+      {
+        "bbox": [
+          1408,
+          652,
+          1535,
+          779
+        ],
+        "value": "5a0SEq01",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          2013,
+          1497,
+          2143,
+          1635
+        ],
+        "value": "5a0SEr01",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          962,
+          1222,
+          1069,
+          1331
+        ],
+        "value": "5a0SEo01",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1532,
+          1442,
+          1590,
+          1508
+        ],
+        "value": "",
+        "type": "undecoded"
+      }
+    ]
+  },
+  {
+    "image_id": "img220",
+    "qrs": [
+      {
+        "bbox": [
+          1584,
+          175,
+          1699,
+          297
+        ],
+        "value": "5a0RlO0G",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1252,
+          215,
+          1369,
+          333
+        ],
+        "value": "5a0RlO0F",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1470,
+          1396,
+          1590,
+          1515
+        ],
+        "value": "5a0QyU0n",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          2177,
+          1343,
+          2304,
+          1471
+        ],
+        "value": "",
+        "type": "undecoded"
+      },
+      {
+        "bbox": [
+          940,
+          255,
+          1054,
+          367
+        ],
+        "value": "",
+        "type": "undecoded"
+      },
+      {
+        "bbox": [
+          752,
+          1384,
+          879,
+          1510
+        ],
+        "value": "5a0QyU0o",
+        "type": "serial"
+      }
+    ]
+  },
+  {
+    "image_id": "img239",
+    "qrs": [
+      {
+        "bbox": [
+          1218,
+          2454,
+          1587,
+          2803
+        ],
+        "value": "",
+        "type": "undecoded"
+      }
+    ]
+  },
+  {
+    "image_id": "img205",
+    "qrs": [
+      {
+        "bbox": [
+          924,
+          1965,
+          1072,
+          2111
+        ],
+        "value": "5a0SF501",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          2169,
+          96,
+          2285,
+          206
+        ],
+        "value": "",
+        "type": "undecoded"
+      },
+      {
+        "bbox": [
+          1410,
+          2302,
+          1560,
+          2459
+        ],
+        "value": "5a0SF701",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1661,
+          1725,
+          1802,
+          1854
+        ],
+        "value": "",
+        "type": "undecoded"
+      },
+      {
+        "bbox": [
+          903,
+          1130,
+          1024,
+          1257
+        ],
+        "value": "",
+        "type": "undecoded"
+      }
+    ]
+  },
+  {
+    "image_id": "img211",
+    "qrs": [
+      {
+        "bbox": [
+          786,
+          1718,
+          1019,
+          1958
+        ],
+        "value": "5a0QLB1o",
+        "type": "serial"
+      }
+    ]
+  },
+  {
+    "image_id": "img210",
+    "qrs": [
+      {
+        "bbox": [
+          1810,
+          2758,
+          1952,
+          2906
+        ],
+        "value": "5a0Rq405",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          562,
+          2925,
+          714,
+          3079
+        ],
+        "value": "5a0Qnu0E",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          964,
+          1998,
+          1103,
+          2136
+        ],
+        "value": "5a0QP30V",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          426,
+          1644,
+          545,
+          1759
+        ],
+        "value": "5a0QZi0d",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1315,
+          1034,
+          1435,
+          1147
+        ],
+        "value": "5a0QLB1o",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1935,
+          1384,
+          2062,
+          1506
+        ],
+        "value": "5a0QRb0M",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1481,
+          1512,
+          1608,
+          1635
+        ],
+        "value": "",
+        "type": "undecoded"
+      },
+      {
+        "bbox": [
+          1127,
+          1013,
+          1226,
+          1108
+        ],
+        "value": "",
+        "type": "undecoded"
+      },
+      {
+        "bbox": [
+          1900,
+          1978,
+          1994,
+          2061
+        ],
+        "value": "",
+        "type": "undecoded"
+      }
+    ]
+  },
+  {
+    "image_id": "img204",
+    "qrs": [
+      {
+        "bbox": [
+          1758,
+          2396,
+          1920,
+          2559
+        ],
+        "value": "5a0PMR0V",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          252,
+          2006,
+          404,
+          2159
+        ],
+        "value": "5a0SHE01",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          927,
+          2151,
+          1074,
+          2294
+        ],
+        "value": "5a0QP30V",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1443,
+          1131,
+          1573,
+          1257
+        ],
+        "value": "5a0Qnu0E",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          796,
+          1480,
+          944,
+          1626
+        ],
+        "value": "5a0S2802",
+        "type": "serial"
+      }
+    ]
+  },
+  {
+    "image_id": "img238",
+    "qrs": [
+      {
+        "bbox": [
+          1262,
+          741,
+          1581,
+          1027
+        ],
+        "value": "",
+        "type": "undecoded"
+      }
+    ]
+  },
+  {
+    "image_id": "img212",
+    "qrs": [
+      {
+        "bbox": [
+          1213,
+          1824,
+          1386,
+          1995
+        ],
+        "value": "5a0QRb0M",
+        "type": "serial"
+      }
+    ]
+  },
+  {
+    "image_id": "img206",
+    "qrs": [
+      {
+        "bbox": [
+          1335,
+          1704,
+          1471,
+          1838
+        ],
+        "value": "5a0SF501",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          648,
+          1408,
+          781,
+          1541
+        ],
+        "value": "5a0SD108",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          695,
+          2382,
+          847,
+          2539
+        ],
+        "value": "5a0PvH0O",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1112,
+          946,
+          1230,
+          1063
+        ],
+        "value": "5a0S0G07",
+        "type": "serial"
+      }
+    ]
+  },
+  {
+    "image_id": "img207",
+    "qrs": [
+      {
+        "bbox": [
+          914,
+          1975,
+          1041,
+          2102
+        ],
+        "value": "5a0S5j07",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          712,
+          2915,
+          853,
+          3064
+        ],
+        "value": "",
+        "type": "undecoded"
+      },
+      {
+        "bbox": [
+          1816,
+          2217,
+          1955,
+          2357
+        ],
+        "value": "5a0SEm01",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          189,
+          2713,
+          331,
+          2857
+        ],
+        "value": "5a0S0G07",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          506,
+          1684,
+          610,
+          1779
+        ],
+        "value": "",
+        "type": "undecoded"
+      }
+    ]
+  },
+  {
+    "image_id": "img213",
+    "qrs": [
+      {
+        "bbox": [
+          792,
+          2224,
+          1003,
+          2447
+        ],
+        "value": "5a0S2802",
+        "type": "serial"
+      }
+    ]
+  },
+  {
+    "image_id": "img217",
+    "qrs": [
+      {
+        "bbox": [
+          647,
+          610,
+          795,
+          758
+        ],
+        "value": "5a0QZ60G",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          690,
+          1897,
+          833,
+          2035
+        ],
+        "value": "5a0Pdq0T",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1647,
+          749,
+          1777,
+          885
+        ],
+        "value": "",
+        "type": "undecoded"
+      },
+      {
+        "bbox": [
+          1778,
+          1837,
+          1908,
+          1965
+        ],
+        "value": "5a0N1l12",
+        "type": "serial"
+      }
+    ]
+  },
+  {
+    "image_id": "img203",
+    "qrs": [
+      {
+        "bbox": [
+          1569,
+          1617,
+          1712,
+          1762
+        ],
+        "value": "5a0Pqr0S",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          814,
+          2304,
+          978,
+          2468
+        ],
+        "value": "5a0SHD01",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1414,
+          2700,
+          1573,
+          2860
+        ],
+        "value": "5a0S6E03",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1251,
+          1716,
+          1387,
+          1846
+        ],
+        "value": "5a0Pqr0T",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          595,
+          2793,
+          762,
+          2957
+        ],
+        "value": "",
+        "type": "undecoded"
+      },
+      {
+        "bbox": [
+          694,
+          1626,
+          826,
+          1756
+        ],
+        "value": "",
+        "type": "undecoded"
+      }
+    ]
+  },
+  {
+    "image_id": "img202",
+    "qrs": [
+      {
+        "bbox": [
+          2078,
+          583,
+          2321,
+          828
+        ],
+        "value": "5a0Pqh06",
+        "type": "serial"
+      }
+    ]
+  },
+  {
+    "image_id": "img216",
+    "qrs": [
+      {
+        "bbox": [
+          2062,
+          921,
+          2241,
+          1102
+        ],
+        "value": "5a0RyD0G",
+        "type": "serial"
+      }
+    ]
+  },
+  {
+    "image_id": "img214",
+    "qrs": [
+      {
+        "bbox": [
+          961,
+          1226,
+          1072,
+          1333
+        ],
+        "value": "5a0SHE01",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          550,
+          2853,
+          694,
+          3000
+        ],
+        "value": "5a0S2802",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1203,
+          2034,
+          1323,
+          2148
+        ],
+        "value": "5a0Rze02",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1367,
+          1477,
+          1489,
+          1597
+        ],
+        "value": "5a0QLB1o",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          550,
+          1761,
+          678,
+          1890
+        ],
+        "value": "",
+        "type": "undecoded"
+      },
+      {
+        "bbox": [
+          1815,
+          1718,
+          1924,
+          1840
+        ],
+        "value": "",
+        "type": "undecoded"
+      },
+      {
+        "bbox": [
+          1999,
+          2043,
+          2099,
+          2158
+        ],
+        "value": "",
+        "type": "undecoded"
+      },
+      {
+        "bbox": [
+          2069,
+          2268,
+          2164,
+          2361
+        ],
+        "value": "",
+        "type": "undecoded"
+      },
+      {
+        "bbox": [
+          1182,
+          2615,
+          1287,
+          2718
+        ],
+        "value": "",
+        "type": "undecoded"
+      },
+      {
+        "bbox": [
+          1362,
+          2546,
+          1465,
+          2653
+        ],
+        "value": "",
+        "type": "undecoded"
+      }
+    ]
+  },
+  {
+    "image_id": "img228",
+    "qrs": [
+      {
+        "bbox": [
+          2490,
+          417,
+          2631,
+          559
+        ],
+        "value": "",
+        "type": "undecoded"
+      },
+      {
+        "bbox": [
+          1109,
+          946,
+          1268,
+          1100
+        ],
+        "value": "",
+        "type": "undecoded"
+      },
+      {
+        "bbox": [
+          2743,
+          1723,
+          2918,
+          1891
+        ],
+        "value": "",
+        "type": "undecoded"
+      },
+      {
+        "bbox": [
+          1458,
+          1947,
+          1609,
+          2089
+        ],
+        "value": "",
+        "type": "undecoded"
+      }
+    ]
+  },
+  {
+    "image_id": "img229",
+    "qrs": [
+      {
+        "bbox": [
+          1504,
+          762,
+          1660,
+          923
+        ],
+        "value": "5a0SEp01",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          2564,
+          1563,
+          2758,
+          1749
+        ],
+        "value": "5a0SIk02",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1087,
+          1095,
+          1225,
+          1242
+        ],
+        "value": "",
+        "type": "undecoded"
+      },
+      {
+        "bbox": [
+          1,
+          2094,
+          74,
+          2206
+        ],
+        "value": "",
+        "type": "undecoded"
+      }
+    ]
+  },
+  {
+    "image_id": "img215",
+    "qrs": [
+      {
+        "bbox": [
+          1639,
+          1016,
+          1777,
+          1147
+        ],
+        "value": "5a0QP30V",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1504,
+          1863,
+          1663,
+          2017
+        ],
+        "value": "5a0Qnu0E",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          837,
+          1046,
+          959,
+          1164
+        ],
+        "value": "",
+        "type": "undecoded"
+      },
+      {
+        "bbox": [
+          623,
+          1976,
+          766,
+          2116
+        ],
+        "value": "",
+        "type": "undecoded"
+      }
+    ]
+  },
+  {
+    "image_id": "img201",
+    "qrs": [
+      {
+        "bbox": [
+          1277,
+          1649,
+          1467,
+          1830
+        ],
+        "value": "5a0S2Y02",
+        "type": "serial"
+      }
+    ]
+  },
+  {
+    "image_id": "img248",
+    "qrs": [
+      {
+        "bbox": [
+          1830,
+          766,
+          1963,
+          907
+        ],
+        "value": "5a0Rqf02",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          2216,
+          1672,
+          2358,
+          1824
+        ],
+        "value": "5a0SHG01",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          2577,
+          727,
+          2741,
+          875
+        ],
+        "value": "5a0SJB02",
+        "type": "serial"
+      }
+    ]
+  },
+  {
+    "image_id": "img249",
+    "qrs": [
+      {
+        "bbox": [
+          1270,
+          1035,
+          1403,
+          1174
+        ],
+        "value": "",
+        "type": "undecoded"
+      },
+      {
+        "bbox": [
+          2506,
+          866,
+          2673,
+          1035
+        ],
+        "value": "5a0SJB02",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1606,
+          1560,
+          1753,
+          1706
+        ],
+        "value": "5a0SHG01",
+        "type": "serial"
+      },
+      {
+        "bbox": [
+          1783,
+          999,
+          1928,
+          1145
+        ],
+        "value": "5a0Rqf02",
+        "type": "serial"
+      }
+    ]
+  }
+]
