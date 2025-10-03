@@ -31,7 +31,8 @@ The workflow covers dataset preparation and splitting, model training, and infer
 │
 ├── outputs/
 │   ├── annotated_output/        # Annotated inference images
-│   └── submission_detection_1.json      # Final detection results
+│   ├── submission_detection_1.json       # Final detection results
+│   └── submission_decoding_2.json      # Final decoding results
 │
 ├── splitting.py             # Splitting script
 ├── train.py                 # Training script
